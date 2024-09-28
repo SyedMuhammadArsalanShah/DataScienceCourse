@@ -1,6 +1,3 @@
-Here’s how you can structure the assignment based on the three components: Data Validation in Excel, MD Dirs, and Web Data Extraction using Excel:
-
----
 
 ### **Assignment Title: Data Validation, MD Directories, and Web Data Extraction using Excel**
 
